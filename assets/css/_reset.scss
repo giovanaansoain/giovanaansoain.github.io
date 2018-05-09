@@ -17,7 +17,7 @@ html, body {
 	-webkit-text-size-adjust: 100%;
 }
 
-html, body, div, span, object, iframe, img, table, caption, thead, tbody, tfoot, tr, th, td, article, aside, canvas, details, figure, hgroup, menu, nav, footer, header, section, summary, mark, audio, video, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, address, cite, code, del, dfn, em, ins, q, samp, small, strong, sub, sup, b, i, hr, dl, dt, dd, ol, ul, li, fieldset, legend, label, button, input, select, textarea, form {
+html, body, div, span, object, iframe, img, table, caption, thead, tbody, tfoot, tr, th, td, article, aside, canvas, details, figure, hgroup, menu, nav, footer, header, section, summary, mark, audio, video, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, address, cite, code, del, dfn, em, ins, q, samp, small, strong, sub, sup, b, i, hr, dl, dt, dd, li, fieldset, legend, label, button, input, select, textarea, form {
 	box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	margin: 0;
@@ -53,6 +53,10 @@ a {
 	text-decoration: none;
 	color: inherit;
 	cursor: pointer;
+}
+
+a, button, a:active, button:active{
+	outline: none;
 }
 
 /*ul {

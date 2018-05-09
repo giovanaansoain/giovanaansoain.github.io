@@ -57,6 +57,7 @@
 	.list-social-media{
 		list-style: none;
 		list-style-position: inside;
+		padding: 0;
 		
 		@media screen and (max-width: $screen-xs-max){
 			margin-bottom: 40px;
@@ -68,6 +69,7 @@
 	max-width: 300px;
 	list-style: none;
 	list-style-position: inside;
+	padding: 0;
 
 	@media screen and (min-width: $screen-sm) and (max-width: $screen-sm-max) {
 		max-width: 275px;
@@ -154,7 +156,7 @@
     }
 }
 
-.logo-map{
+.logo-map>a{
 	display: block;
     background-image: url(../img/logo.svg);
     background-repeat: no-repeat;

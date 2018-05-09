@@ -15,12 +15,12 @@ Mentora em uma das Rodadas de Mentoria que o Sebrae realiza para o programa Spee
 
 Os assuntos tratados foram:
 
--	Pesquisa de mercado
+1. Pesquisa de mercado
 
--	Conhecimento do público
+2. Conhecimento do público
 
--	Linguagem e comunicação
+3. Linguagem e comunicação
 
--	Design e inovação
+4. Design e inovação
 
 

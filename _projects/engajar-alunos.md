@@ -17,18 +17,18 @@ Entendemos o valor da educação para cada stakeholder desse negócio e criamos 
 
 Os assuntos tratados foram:
 
-* Busca pelo propósito empreendedor
+1. Busca pelo propósito empreendedor
 
-* Pesquisa de referências
+2. Pesquisa de referências
 
-* Entrevista com stakeholders
+3. Entrevista com stakeholders
 
-* Desenho da jornada do usuário
+4. Desenho da jornada do usuário
 
-* Criação de metas SMART
+5. Criação de metas SMART
 
-* Criação do serviço
+6. Criação do serviço
 
-* Prototipação
+7. Prototipação
 
-* Teste com stakeholders usuários
+8. Teste com stakeholders usuários
