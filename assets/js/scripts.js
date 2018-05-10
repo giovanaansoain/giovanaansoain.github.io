@@ -35,11 +35,11 @@ $(document).ready(function(){
 		});
 	}
 	
-	if($('.cooperation-projects').length > 4){
+	if($('.cooperation-projects').length > 2){
 		$('.wrapper-cooperation-projects').slick({
 			dots: true,
 			infinite: true,
-			speed: 300,
+			speed: 500,
 			slidesToShow: 4,
 			slidesToScroll: 4,
 			responsive: [

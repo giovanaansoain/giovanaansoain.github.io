@@ -89,13 +89,13 @@ section.banner{
   color: $color-subtitle;
   margin: 0 auto 50px auto;
 
-  @media screen and (min-width: $screen-md) and (max-width: $screen-md-max){
+  /*@media screen and (min-width: $screen-md) and (max-width: $screen-md-max){
       font-size: 16px;
   }
 
   @media only screen and (max-width: $screen-sm-max){
     font-size: 15px;
-  }
+  }*/
 
   @media screen and (min-width: $screen-sm){
     width: 635px;

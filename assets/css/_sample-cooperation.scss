@@ -6,7 +6,7 @@
     .cooperation-projects {
         width: 200px;
         padding: 5px;
-        margin: 0 30px;
+        margin: 0 10px;
     }
 
     .cooperation-img {
@@ -20,4 +20,22 @@
             height: 140px;
         }
 	}
+
+    .slick-list{
+        width: 90%;
+    }
+
+    .slick-prev.slick-arrow, .slick-next.slick-arrow{
+        top: 33%;
+
+        @media screen and (max-width: 767px){
+            top: 37%;
+        }
+    }
+
+    @media screen and (min-width: 992px){
+        .slick-dots {
+            margin-top: 40px;
+        }
+    }
 }

@@ -128,11 +128,7 @@
         flex-wrap: wrap;
     }
 
-    .wrapper-projects>a{
-        width: 50%;
-    }
-
-    .wrapper-projects>a:first-child{
-        width: 100%;
+    .wrapper-projects>a + a{
+        margin-top: 20px;
     }
 }
