@@ -54,6 +54,25 @@ $(document).ready(function(){
 		});
 	}
 
+	if($('.box-project-related').length > 1){
+		$('.wrapper-related-project').slick({
+			dots: false,
+			infinite: true,
+			speed: 300,
+			slidesToShow: 2,
+			slidesToScroll: 2,
+			responsive: [
+		    {
+		      breakpoint: 991,
+		      settings: {
+		        slidesToShow: 2,
+		        slidesToScroll: 2
+		      }
+		    }
+		 	]
+		});
+	}
+
 	//form contato
 	var formContact 	= $('.form');
 
