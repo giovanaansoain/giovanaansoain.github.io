@@ -1,8 +1,8 @@
 <section class="related-projects">
     <div class="wrapper-related">
 		<h4 class="section-title">Projetos relacionados</h4>
-		{% assign maxRelatedCounter  = 0 %}
 		<div class="wrapper-related-project">
+		{% assign maxRelatedCounter  = 0 %}
 		{% for tag in page.tags %}
 			{% assign projects = site.projects | sort: 'order' | where: 'tags',tag %}
 			{% for project in projects %}

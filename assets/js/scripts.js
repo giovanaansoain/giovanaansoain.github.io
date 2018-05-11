@@ -59,8 +59,8 @@ $(document).ready(function(){
 			dots: false,
 			infinite: true,
 			speed: 300,
-			slidesToShow: 2,
-			slidesToScroll: 2,
+			slidesToShow: 3,
+			slidesToScroll: 3,
 			responsive: [
 		    {
 		      breakpoint: 991,
@@ -184,5 +184,15 @@ $(document).ready(function(){
 		showProjects(filtro + add);
 		filtro += add;
 	});	
+
+	// related project
+
+	var relatedSetcion = $('.related-projects');
+	var cardRelated = relatedSetcion.find('.box-project-related');
+
+	if(cardRelated.length == 0){
+		relatedSetcion.addClass('hidden');
+	}
+
 
 });
