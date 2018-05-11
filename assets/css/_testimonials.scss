@@ -45,8 +45,10 @@
 }
 
 .text-slider{
-	font-family: $garamond;
-	font-size: 16px;
+	font-family: $rokkitt;
+	font-size: 18px;
+	font-weight: 300;
+	letter-spacing: 1px;
 	line-height: 1.6;
 
 	/*@media only screen and (max-width: $screen-sm-max){
@@ -66,7 +68,7 @@
 
 span.space-text{
 	margin: 0 5px;
-	font-family: $garamond;
+	font-family: $rokkitt;
 	font-size: 13px;
 	display: flex;
 	align-items: center;
@@ -82,9 +84,10 @@ span.space-text{
 }
 
 .info-role{
-	font-family: $garamond;
-	font-size: 16px;
-	font-weight: normal;
-	font-style: italic;
+	font-family: $rokkitt;
+	font-size: 18px;
+	font-weight: 300;
+	letter-spacing: 1px;
+	/*font-style: italic;*/
 	line-height: 2;
 }

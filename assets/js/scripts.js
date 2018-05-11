@@ -35,7 +35,7 @@ $(document).ready(function(){
 		});
 	}
 	
-	if($('.cooperation-projects').length > 2){
+	if($('.cooperation-projects').length > 4){
 		$('.wrapper-cooperation-projects').slick({
 			dots: true,
 			infinite: true,

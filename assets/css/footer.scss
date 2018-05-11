@@ -90,13 +90,15 @@
 }
 
 .list-map-site:nth-child(1){
-	font-family: $garamond;
-	font-size: 16px;
+	font-family: $rokkitt;
+	font-size: 18px;
+	font-weight: 300;
+	letter-spacing: 1px;
 	line-height: 1.63;
 	color: #fefefe;
 
 	strong{
-		font-weight: normal;
+		font-weight: 300;
 	}
 
 	@media screen and (max-width: $screen-xs-max){

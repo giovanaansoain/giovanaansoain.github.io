@@ -8,8 +8,10 @@
     }
 
     p{
-        font-family: $garamond;
+        font-family: $rokkitt;
         font-size: 18px;
+        font-weight: 300;
+        letter-spacing: 1px;
         line-height: 30px;
         color: #3d3d3d;
         text-align: left;
@@ -75,8 +77,10 @@
 }
 
 .project-info-text{
-    font-family: $garamond;
+    font-family: $rokkitt;
     font-size: 18px;
+    font-weight: 300;
+    letter-spacing: 1px;
     line-height: 30px;
     color: #3d3d3d;
 }

@@ -1,62 +1,72 @@
 /*Garamond*/
 @font-face {
-    font-family: 'Garamond';
-    src: url('../fonts/Cormorant_Garamond/CormorantGaramond-Light.eot');
-    src: url('../fonts/Cormorant_Garamond/CormorantGaramond-Light.otf'),
-         url('../fonts/Cormorant_Garamond/CormorantGaramond-Light.woff') format('woff'),
-         url('../fonts/Cormorant_Garamond/CormorantGaramond-Light.ttf') format('truetype');
+    font-family: 'Rokkitt';
+    src: url('../fonts/Rokkitt/Rokkitt-Light.eot');
+    src: url('../fonts/Rokkitt/Rokkitt-Light.otf'),
+         url('../fonts/Rokkitt/Rokkitt-Light.woff') format('woff'),
+         url('../fonts/Rokkitt/Rokkitt-Light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Garamond';
-    src: url('../fonts/Cormorant_Garamond/CormorantGaramond-LightItalic.eot');
-    src: url('../fonts/Cormorant_Garamond/CormorantGaramond-LightItalic.otf'),
-         url('../fonts/Cormorant_Garamond/CormorantGaramond-LightItalic.woff') format('woff'),
-         url('../fonts/Cormorant_Garamond/CormorantGaramond-LightItalic.ttf') format('truetype');
-    font-weight: 300;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Garamond';
-    src: url('../fonts/Cormorant_Garamond/CormorantGaramond-Regular.eot');
-    src: url('../fonts/Cormorant_Garamond/CormorantGaramond-Regular.otf'),
-         url('../fonts/Cormorant_Garamond/CormorantGaramond-Regular.woff') format('woff'),
-         url('../fonts/Cormorant_Garamond/CormorantGaramond-Regular.ttf') format('truetype');
+    font-family: 'Rokkitt';
+    src: url('../fonts/Rokkitt/Rokkitt-Regular.eot');
+    src: url('../fonts/Rokkitt/Rokkitt-Regular.otf'),
+         url('../fonts/Rokkitt/Rokkitt-Regular.woff') format('woff'),
+         url('../fonts/Rokkitt/Rokkitt-Regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Garamond';
-    src: url('../fonts/Cormorant_Garamond/CormorantGaramond-Italic.eot');
-    src: url('../fonts/Cormorant_Garamond/CormorantGaramond-Italic.otf'),
-         url('../fonts/Cormorant_Garamond/CormorantGaramond-Italic.woff') format('woff'),
-         url('../fonts/Cormorant_Garamond/CormorantGaramond-Italic.ttf') format('truetype');
-    font-weight: 400;
-    font-style: italic;
+    font-family: 'Rokkitt';
+    src: url('../fonts/Rokkitt/Rokkitt-Medium.eot');
+    src: url('../fonts/Rokkitt/Rokkitt-Medium.otf'),
+         url('../fonts/Rokkitt/Rokkitt-Medium.woff') format('woff'),
+         url('../fonts/Rokkitt/Rokkitt-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
 }
 
 @font-face {
-    font-family: 'Garamond';
-    src: url('../fonts/Cormorant_Garamond/CormorantGaramond-Bold.eot');
-    src: url('../fonts/Cormorant_Garamond/CormorantGaramond-Bold.otf'),
-         url('../fonts/Cormorant_Garamond/CormorantGaramond-Bold.woff') format('woff'),
-         url('../fonts/Cormorant_Garamond/CormorantGaramond-Bold.ttf') format('truetype');
+    font-family: 'Rokkitt';
+    src: url('../fonts/Rokkitt/Rokkitt-SemiBold.eot');
+    src: url('../fonts/Rokkitt/Rokkitt-SemiBold.otf'),
+         url('../fonts/Rokkitt/Rokkitt-SemiBold.woff') format('woff'),
+         url('../fonts/Rokkitt/Rokkitt-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('../fonts/Rokkitt/Rokkitt-Bold.eot');
+    src: url('../fonts/Rokkitt/Rokkitt-Bold.otf'),
+         url('../fonts/Rokkitt/Rokkitt-Bold.woff') format('woff'),
+         url('../fonts/Rokkitt/Rokkitt-Bold.ttf') format('truetype');
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Garamond';
-    src: url('../fonts/Cormorant_Garamond/CormorantGaramond-BoldItalic.eot');
-    src: url('../fonts/Cormorant_Garamond/CormorantGaramond-BoldItalic.otf'),
-         url('../fonts/Cormorant_Garamond/CormorantGaramond-BoldItalic.woff') format('woff'),
-         url('../fonts/Cormorant_Garamond/CormorantGaramond-BoldItalic.ttf') format('truetype');
-    font-weight: 700;
-    font-style: italic;
+    font-family: 'Rokkitt';
+    src: url('../fonts/Rokkitt/Rokkitt-ExtraBold.eot');
+    src: url('../fonts/Rokkitt/Rokkitt-ExtraBold.otf'),
+         url('../fonts/Rokkitt/Rokkitt-ExtraBold.woff') format('woff'),
+         url('../fonts/Rokkitt/Rokkitt-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('../fonts/Rokkitt/Rokkitt-Black.eot');
+    src: url('../fonts/Rokkitt/Rokkitt-Black.otf'),
+         url('../fonts/Rokkitt/Rokkitt-Black.woff') format('woff'),
+         url('../fonts/Rokkitt/Rokkitt-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
 }
 
 /*Lora*/

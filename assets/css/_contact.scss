@@ -95,16 +95,20 @@
 }
 
 .mod-label{
-	font-family: $garamond;
+	font-family: $rokkitt;
     font-size: 18px;
+    font-weight: 300;
+    letter-spacing: 1px;
 	color: #a7a7a7;
 }
 
 .mod-textarea{
     position: relative;
     width: 100%;
-    font-family: $garamond;
+    font-family: $rokkitt;
     font-size: 18px;
+    font-weight: 300;
+    letter-spacing: 1px;
     line-height: 2.2;
     border: none;
     border-bottom: 1px solid #a7a7a7;
@@ -137,9 +141,11 @@
 }
 
 .mod-input{
-	font-family: $garamond;
-    width: 100%;
+	font-family: $rokkitt;
     font-size: 18px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    width: 100%;
     line-height: 2.2;
     border: none;
     border-bottom: 1px solid #a7a7a7;

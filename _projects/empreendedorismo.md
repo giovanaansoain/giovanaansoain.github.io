@@ -23,4 +23,6 @@ Os assuntos tratados foram:
 
 4. Design e inovação
 
+[![Projetos inovadores de jogos são apresentados no Speed Mentoring Games](./upload/sebrae-video-cover.jpg)](https://youtu.be/vIwUADpqqiQ "Projetos inovadores de jogos são apresentados no Speed Mentoring Games")
+
 
