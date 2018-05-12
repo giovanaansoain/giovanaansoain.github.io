@@ -1,12 +1,20 @@
-<section class="banner banner-pages">
+<section class="banner">
 	<img class="banner-img" src="{{ site.baseurl }}upload/{{ page.image }}" alt="banner">
 	<div class="banner-wrapper-info">
 		<div class="banner-box-center">
-			<h2 class="banner-title">{{ page.title }}</h2>
+			<h2 class="banner-title">{{ page.bannertitle }}</h2>
 			<p class="banner-subtitle">{{ page.subtitle }}</p>
+			<div class="row-buttons">
+				<a href="{{ site.baseurl }}about" class="btn-secondary">Sobre mim</a>
+				<a href="{{ site.baseurl }}contact" class="btn-primary">Fale Comigo</a>
+			</div>
 		</div>
 		<div class="banner-box-bottom">
 			<a href="mailto:{{ site.email }}">{{ site.email }}</a>
+			<div class="wrapper-btn-scroll">
+				<p>Role para baixo</p>
+				<i class="icon-scroll">scroll</i>
+			</div>
 			<a href="tel:{{ site.phone }}">{{ site.phone }}</a></li>
 		</div>
 	</div>

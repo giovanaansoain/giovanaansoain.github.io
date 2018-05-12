@@ -1,32 +1,15 @@
 ---
 title: Home
 layout: default
+bannertitle: Facilitação de inovação
+subtitle: Juntos, resolvemos desafios de forma criativa e inovadora
+image: home-banner.jpg
 ---
 
 <main class="home">
 
 	<!-- banner -->
-	<section class="banner">
-		<img class="banner-img" src="{{ site.baseurl }}upload/home-banner.jpg" alt="banner">
-		<div class="banner-wrapper-info">
-			<div class="banner-box-center">
-				<h2 class="banner-title">Facilitação de inovação</h2>
-				<p class="banner-subtitle">Juntos, resolvemos desafios de forma criativa e inovadora</p>
-				<div class="row-buttons">
-					<a href="{{ site.baseurl }}about" class="btn-secondary">Sobre mim</a>
-					<a href="{{ site.baseurl }}contact" class="btn-primary">Fale Comigo</a>
-				</div>
-			</div>
-			<div class="banner-box-bottom">
-				<a href="mailto:ola@giovana.cc">{{ site.email }}</a>
-				<div class="wrapper-btn-scroll">
-					<p>Role para baixo</p>
-					<i class="icon-scroll">scroll</i>
-				</div>
-				<a href="tel:+5511976757107">+55 11 97675 7107</a></li>
-			</div>
-		</div>
-	</section>
+	{% include banner-home.html %}
 
 	<!-- services -->
 	<section id="services" class="sample-services">
