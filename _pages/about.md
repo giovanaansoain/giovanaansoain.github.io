@@ -2,6 +2,8 @@
 title: Sobre
 permalink: about
 image: perfil.jpg
+video-image: 
+video-link: 
 layout: sobre
 ---
 

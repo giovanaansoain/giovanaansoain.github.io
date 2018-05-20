@@ -14,7 +14,11 @@
 
 		{%- include sample-services.html -%}
 
-		<!-- {%- include video-about.html -%} -->
+		{% if page.video-image %}
+
+			{%- include video-about.html -%}
+
+		{% endif %}
 
 		{%- include call-to-action.html -%}
 
