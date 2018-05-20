@@ -1,0 +1,29 @@
+<section id="testimonials" class="testimonials">
+	<h4 class="section-title">{{ page.testimonials_title }}</h4>
+	<p class="section-subtitle">{{ page.testimonials_subtitle }}</p>
+	
+	<!-- slider -->
+	<div class="slider-testimonials container">
+		
+		{% for testimonial in site.testimonials %}
+
+		<div class="box-slider">
+			<div class="box-content">
+				<img src="{{ site.baseurl }}assets/icons/comma.png" alt="" class="icon-commas">
+				<div class="wrapper-text-slider">
+					{{ testimonial.content | markdownify }}
+					<div class="info-text">
+						<p>
+							<span class="info-name">{{ testimonial.client }}</span>
+							<span class="space-text">—</span>
+							<span class="info-role">{{ testimonial.role }}</span>
+						</p>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+
+		{% endfor %}
+	</div>
+</section>

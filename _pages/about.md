@@ -4,6 +4,7 @@ permalink: about
 image: perfil.jpg
 video-image: 
 video-link: 
+services_title: Meus diferenciais
 layout: sobre
 ---
 

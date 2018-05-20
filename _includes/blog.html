@@ -1,0 +1,26 @@
+<section id="blog" class="blog">
+	<h4 class="section-title">{{ page.blog_title }}</h4>
+	<p class="section-subtitle">{{ page.blog_subtitle }}</p>
+
+	<div class="container">
+		<div class="wrapper-posts">
+
+			{% for medium in site.mediums %}
+			<div class="post-card">
+				<a href="https://medium.com/processocriativo/{{ medium.link }}" target="_blank">
+					<img src="{{ site.baseurl }}upload/{{ medium.image }}" alt="" class="img-post">
+					<div class="post-info">
+						<p class="post-category">{{ medium.category }}</p>
+						<p class="post-title">{{ medium.title }}</p>
+						<div class="post-about">
+							<p>por <span class="post-author">{{ medium.author }}</span></p>
+							<p class="post-date">{{ medium.tempo }}</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			{% endfor %}
+			
+		</div>
+	</div>
+</section>

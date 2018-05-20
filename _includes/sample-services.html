@@ -1,5 +1,7 @@
 <section class="sample-services">
-	<h4 class="section-title">Meus diferenciais</h4>
+	{% if page.services_title %}
+	<h4 class="section-title">{{ page.services_title }}</h4>
+	{% endif %}
 	<div class="services-content container">
 		<div class="box-services">
 			<img class="services-icon" src="{{ site.baseurl }}assets/icons/assessoria.svg" alt="">

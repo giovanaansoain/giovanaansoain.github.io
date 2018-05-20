@@ -1,0 +1,14 @@
+<section id="partners" class="sample-cooperation container">
+	<h4 class="section-title">{{ page.cooperation_title }}</h4>
+	<p class="section-subtitle">{{ page.cooperation_subtitle }}</p>
+	<div class="wrapper-cooperation-projects">
+
+	{% for partner in site.partners %}
+		<div class="cooperation-projects">
+			<img class="cooperation-img" src="{{ site.baseurl }}upload/{{ partner.image }}" alt="{{ partner.title }}">
+		</div>
+	{% endfor %}
+
+	</div>
+
+</section>
