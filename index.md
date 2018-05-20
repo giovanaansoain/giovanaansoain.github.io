@@ -1,8 +1,8 @@
 ---
 title: Home
 layout: home
-bannertitle: Facilitação de inovação
-subtitle: Juntos, resolvemos desafios de forma criativa e inovadora
+banner_title: Facilitação de inovação
+banner_subtitle: Juntos, resolvemos desafios de forma criativa e inovadora
 image: home-banner.jpg
 services_title:
 project_title: Minhas melhores colaborações
