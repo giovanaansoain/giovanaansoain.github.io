@@ -5,17 +5,17 @@ collections:
   pages:
     title: Pages
     output: true
-  posts:
-    title: Posts
-    output: true
   projects:
     title: Projects
     output: true
+  partners:
+    title: Partners
+    output: true
+  testimonials:
+    title: Testimonials
+    output: true
   upload:
     title: Upload
-    output: true
-  uploads:
-    title: Uploads
     output: true
 email: ola@giovana.cc
 phone: +55 11 97675 7107
