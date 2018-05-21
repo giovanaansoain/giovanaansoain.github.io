@@ -31,7 +31,7 @@ phone: "+55 11 97675 7107"
 description: Giovana Ansoain Portfolio. Buscamos soluções criativas com processo de
   design para criar inovação.
 meta_keywords: assessoria, agilidade, inovacao
-baseurl: ''
+baseurl: 
 url: 
 markdown: kramdown
 plugins:
