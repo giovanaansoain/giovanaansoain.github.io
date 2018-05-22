@@ -4,28 +4,23 @@ timezone: UTC
 collections:
   mediums:
     title: Mediums
-    output: true
+    output: false
   pages:
     title: Pages
     output: true
   partners:
     title: Partners
-    output: true
-  posts:
-    title: Posts
-    output: true
+    output: false
   projects:
     title: Projects
     output: true
+    permalink: /:name
   testimonials:
     title: Testimonials
-    output: true
-  upload:
-    title: Upload
-    output: true
+    output: false
   uploads:
     title: Uploads
-    output: true
+    output: false
 email: ola@giovana.cc
 phone: "+55 11 97675 7107"
 description: Giovana Ansoain Portfolio. Buscamos soluções criativas com processo de
