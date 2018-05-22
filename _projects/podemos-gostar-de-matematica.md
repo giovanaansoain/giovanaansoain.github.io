@@ -1,6 +1,5 @@
 ---
 title: Podemos gostar de matemática
-date: 2018-05-27 18:26:00 Z
 tags:
 - educação
 image: "/uploads/tina-floersch.jpg"
@@ -8,6 +7,7 @@ period: Maio, 2018
 client: Maestro, Perestroika
 city: São Paulo
 type: latest
+layout: project
 ---
 
 Em um ambiente de aprendizado e experimentação tive a oportunidade de facilitar o workshop de criação e inovação na educação, onde o desafio era criar uma maneira de engajar alunos de matemática fora da sala de aula.
