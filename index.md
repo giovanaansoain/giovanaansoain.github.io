@@ -2,7 +2,7 @@
 title: Home
 banner_title: Facilitação de inovação
 banner_subtitle: Juntos, resolvemos desafios de forma criativa e inovadora
-image: home-banner.jpg
+image: "/uploads/home-banner.jpg"
 services_title: 
 project_title: Minhas melhores colaborações
 project_subtitle: Veja os projetos mais legais que colaborei.
