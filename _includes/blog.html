@@ -8,7 +8,7 @@
 			{% for medium in site.mediums %}
 			<div class="post-card">
 				<a href="https://medium.com/processocriativo/{{ medium.link }}" target="_blank">
-					<img src="{{ site.baseurl }}uploads/{{ medium.image }}" alt="" class="img-post">
+					<img src="{{ site.baseurl }}{{ medium.image }}" alt="" class="img-post">
 					<div class="post-info">
 						<p class="post-category">{{ medium.category }}</p>
 						<p class="post-title">{{ medium.title }}</p>
