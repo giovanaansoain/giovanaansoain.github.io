@@ -5,7 +5,7 @@
 
 	{% for partner in site.partners %}
 		<div class="cooperation-projects">
-			<img class="cooperation-img" src="{{ site.baseurl }}uploads/{{ partner.image }}" alt="{{ partner.title }}">
+			<img class="cooperation-img" src="{{ site.baseurl }}{{ partner.image }}" alt="{{ partner.title }}">
 		</div>
 	{% endfor %}
 

@@ -1,6 +1,6 @@
 ---
 title: sebrae
 layout: default
-image: sebrae-logo.png
+image: /uploads/sebrae-logo.png
 ---
 
