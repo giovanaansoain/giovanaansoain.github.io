@@ -1,6 +1,5 @@
 ---
 title: Tive uma ideia de negócio. E agora?
-published: false
 categories:
 - Empreendedorismo
 image: post3.jpeg
