@@ -20,6 +20,9 @@ collections:
   testimonials:
     title: Testimonials
     output: true
+  upload:
+    title: Upload
+    output: true
   uploads:
     title: Uploads
     output: true
