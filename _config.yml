@@ -20,10 +20,6 @@ collections:
   testimonials:
     title: Testimonials
     output: true
-  upload:
-    title: Upload
-    output: true
-    image: "/uploads/post4.jpg"
   uploads:
     title: Uploads
     output: true
