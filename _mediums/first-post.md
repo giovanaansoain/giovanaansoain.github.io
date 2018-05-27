@@ -2,7 +2,7 @@
 title: O que aprendi com a minha primeira empresa
 categories:
 - Empreendedorismo
-image: post1.jpeg
+image: "/uploads/post1.jpeg"
 link: o-que-aprendi-com-a-minha-primeira-empresa-2b866ae75b22
 author: Giovana Ansoain
 tempo: 24 Abr.
