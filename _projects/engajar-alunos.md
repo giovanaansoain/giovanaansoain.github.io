@@ -13,11 +13,11 @@ layout: project
 
 Com a ressignificação dos valores de uma empreendedora da educação, identificamos um problema chave no segmento, mapeamos stakeholders, fizemos pesquisa de mercado e de campo para criar um serviço que engaja alunos a serem protagonistas do seu próprio aprendizado.
 
-![conversa](./upload/twist-conversa.jpg "Tela a")
+![conversa](./uploads/twist-conversa.jpg "Tela a")
 
 Entendemos o valor da educação para cada stakeholder desse negócio e criamos um serviço que atende as necessidades dos professores e motiva os alunos.
 
-![desenho](./upload/twist-desenho.jpg "Tela b")
+![desenho](./uploads/twist-desenho.jpg "Tela b")
 
 Os assuntos tratados foram:
 
