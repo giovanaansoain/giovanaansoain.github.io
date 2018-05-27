@@ -3,12 +3,12 @@ title: Podemos otimizar o atendimento ao cliente
 permalink: otimizar-o-atendimento
 tags:
 - financeiro
-layout: project
-image: otimizar-o-atendimento.jpg
+image: "/uploads/otimizar-o-atendimento.jpg"
 period: Dezembro - Abril, 2018
 client: BID (Banco Interamericano de Desenvolvimento)
 city: São Paulo
 type: latest
+layout: project
 ---
 
 Com a necessidade de otimizar a comunicação de um banco internacional com seus colaboradores, facilitei a criação de uma interface interativa de conversa que promove uma comunicação mais eficiente entre banco e colaboradores.
