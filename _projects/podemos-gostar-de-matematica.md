@@ -1,5 +1,6 @@
 ---
 title: Podemos gostar de matemática
+permalink: podemos-gostar-de-matematica
 tags:
 - educação
 image: "/uploads/tina-floersch.jpg"
