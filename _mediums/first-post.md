@@ -1,6 +1,5 @@
 ---
 title: O que aprendi com a minha primeira empresa
-published: false
 categories:
 - Empreendedorismo
 image: post1.jpeg
