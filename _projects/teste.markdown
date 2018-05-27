@@ -1,6 +1,5 @@
 ---
 title: Teste-teste
-date: 2018-05-27 17:06:00 Z
 tags:
 - mentoria
 image: post4-6d7b4d.jpg
