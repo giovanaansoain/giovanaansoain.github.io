@@ -3,7 +3,7 @@ title: Sebrae - Empreendedorismo
 permalink: sebrae-empreendedorismo
 tags:
 - mentoria
-image: sebrae-empreendedorismo.jpg
+image: "/uploads/sebrae-empreendedorismo.jpg"
 period: Novembro, 2017
 client: Sebrae
 city: São Paulo
