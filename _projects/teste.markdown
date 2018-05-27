@@ -3,7 +3,7 @@ title: Teste
 date: 2018-05-27 17:06:00 Z
 tags:
 - mentoria
-image: "/uploads/post4-6d7b4d.jpg"
+image: post4-6d7b4d.jpg
 period: Novembro, 2017
 client: teste
 city: teste
