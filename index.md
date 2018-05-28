@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_title: Facilitação de inovação
+banner_title: Design de inovação
 banner_subtitle: Juntos, resolvemos desafios de forma criativa e inovadora
 image: "/uploads/home-banner.jpg"
 services_title: 
