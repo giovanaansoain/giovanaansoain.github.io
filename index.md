@@ -1,7 +1,8 @@
 ---
 title: Home
 banner_title: Design de inovação
-banner_subtitle: Juntos, resolvemos desafios de forma criativa e inovadora
+banner_subtitle: "Com um conjunto diversificado de recursos e ferramentas ajudo equipes
+  e \norganizações na transição de onde estão agora para onde querem estar"
 image: "/uploads/home-banner.jpg"
 services_title: 
 project_title: Minhas melhores colaborações
