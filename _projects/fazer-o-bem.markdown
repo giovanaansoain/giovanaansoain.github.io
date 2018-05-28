@@ -5,6 +5,7 @@ permalink: fazer-o-bem
 tags:
 - Bem
 image: "/uploads/sebrae-empreendedorismo.jpg"
+type: latest
 layout: project
 ---
 
