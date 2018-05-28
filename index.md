@@ -13,14 +13,14 @@ testimonials_subtitle: Saiba o que eles acharam da minha colaboração
 blog_title: Novidades do blog
 blog_subtitle: No blog eu escrevo sobre design, inovação, empreendedorismo e muito
   mais. Veja as novidades!
-services_box1_title: Assessoria
-services_box1_text: feita em encontro presencial que proporciona um processo criativo
-  com ferramentas e metodologias que instigam a inovação.
+services_box1_title: Facilitação
+services_box1_text: para tornar a criação da inovação mais tranquila e alinhada com
+  os objetivos da empresa e colaboradores
 services_box2_title: Agilidade
-services_box2_text: para criar soluções objetivas, práticas e facilmente aplicáveis.
+services_box2_text: para criar e aprender é indispensável no mundo atual
 services_box3_title: Inovação
 services_box3_text: na busca pela evolução. Usamos ferramentas e processos atualizados
-  que trazem resultados alinhados com as necessidades do mercado atual.
+  que trazem resultados alinhados com as necessidades do mercado atual
 layout: home
 ---
 
