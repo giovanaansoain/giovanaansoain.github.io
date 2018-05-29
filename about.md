@@ -2,8 +2,8 @@
 title: Sobre
 permalink: about
 image: "/uploads/perfil.jpg"
-video-image: "/uploads/post4-6d7b4d.jpg"
-video-link: https://www.youtube.com/watch?v=dtfmNF87jO8
+video-image: 
+video-link: 
 services_title: Meus diferenciais
 services_box1_title: Assessoria
 services_box1_text: feita em encontro presencial que proporciona um processo criativo
