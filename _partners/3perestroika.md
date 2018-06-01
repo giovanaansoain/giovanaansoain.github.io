@@ -1,6 +1,6 @@
 ---
 title: perestroika
 layout: default
-image: /uploads/perestroika-logo.jpg
+image: "/uploads/perestroika-logo.jpg"
 ---
 
