@@ -14,7 +14,7 @@ testimonials_subtitle: Saiba o que eles acharam da minha colaboração
 blog_title: Novidades do blog
 blog_subtitle: No blog eu escrevo sobre design, inovação, empreendedorismo e muito
   mais. Veja as novidades!
-services_box1_title: Design de inovação
+services_box1_title: Design
 services_box1_text: Processo colaborativo com sua equipe para facilitar a criatividade
   e inovação voltada ao desenvolvimento de projeto
 services_box2_title: Workshops
