@@ -18,11 +18,11 @@ services_box1_title: Design
 services_box1_text: Processo colaborativo com sua equipe para facilitar a criatividade
   e inovação voltada ao desenvolvimento de projeto
 services_box2_title: Workshops
-services_box2_text: de desenvolvimento de habilidades e alinhamento de pensamentos
-  para sua equipe de forma totalmente customizável
+services_box2_text: de desenvolvimento de habilidades e solução de desafios para sua
+  equipe de forma totalmente customizável
 services_box3_title: Novos mercados
 services_box3_text: Se você viu novas oportunidades para desenvolver criatividade
-  e inovação, eu posso te ajudar a construir juntos
+  e inovação, eu posso te ajudar. Vamos construir juntos!
 layout: home
 ---
 
