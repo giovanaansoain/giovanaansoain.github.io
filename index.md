@@ -14,14 +14,15 @@ testimonials_subtitle: Saiba o que eles acharam da minha colaboração
 blog_title: Novidades do blog
 blog_subtitle: No blog eu escrevo sobre design, inovação, empreendedorismo e muito
   mais. Veja as novidades!
-services_box1_title: Facilitação
-services_box1_text: para tornar a criação da inovação mais tranquila e alinhada com
-  os objetivos da empresa e colaboradores
-services_box2_title: Agilidade
-services_box2_text: para criar e aprender é indispensável no mundo atual
-services_box3_title: Inovação
-services_box3_text: na busca pela evolução. Usamos ferramentas e processos atualizados
-  que trazem resultados alinhados com as necessidades do mercado atual
+services_box1_title: Design de inovação
+services_box1_text: Processo colaborativo com sua equipe para facilitar a criatividade
+  e inovação voltada ao desenvolvimento de projeto
+services_box2_title: Workshops
+services_box2_text: de desenvolvimento de habilidades e alinhamento de pensamentos
+  para sua equipe de forma totalmente customizável
+services_box3_title: Novos mercados
+services_box3_text: Se você viu novas oportunidades para desenvolver criatividade
+  e inovação, eu posso te ajudar a construir juntos
 layout: home
 ---
 
