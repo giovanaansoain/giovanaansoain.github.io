@@ -5,9 +5,9 @@ image: "/uploads/perfil.jpg"
 video-image: 
 video-link: 
 services_title: Meus diferenciais
-services_box1_title: Assessoria
-services_box1_text: feita em encontro presencial que proporciona um processo criativo
-  com ferramentas e metodologias que instigam a inovação.
+services_box1_title: Facilitação
+services_box1_text: para tornar a criação da inovação mais dinâmica e alinhada com
+  os objetivos da empresa e colaboradores
 services_box2_title: Agilidade
 services_box2_text: para criar soluções objetivas, práticas e facilmente aplicáveis.
 services_box3_title: Inovação
