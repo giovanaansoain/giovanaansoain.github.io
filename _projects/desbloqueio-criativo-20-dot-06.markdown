@@ -6,6 +6,7 @@ tags:
 - workshop
 image: "/uploads/IMG-20180621-WA0027.jpg"
 period: Junho, 2018
+client: Autônoma
 city: São Paulo
 type: latest
 layout: project
