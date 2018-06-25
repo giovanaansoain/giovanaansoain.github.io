@@ -18,8 +18,6 @@ O workshop Desbloqueio Criativo tem o objetivo de desafiar os participantes a cr
 
 O workshop inaugural do dia 20/06/2018 foi especial! Como o nome já diz, desbloquearam a criatividade com um desafio instigante, tudo de forma bem descontraída!
 
-![turma-focada-na-criatividade](/uploads/IMG-20180621-WA0027.jpg)
-
 Ao final, os grupos apresentaram suas ideias e conseguiram compartilhar muito aprendizado.
 
 ![apresentacao-das-ideias](/uploads/IMG-20180621-WA0014.jpg)
