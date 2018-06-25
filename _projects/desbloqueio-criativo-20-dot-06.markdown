@@ -27,7 +27,6 @@ Ao final, os grupos apresentaram suas ideias e conseguiram compartilhar muito ap
 Se você se interessou pelo workshop, fica ligado(a) nas [minhas redes sociais](https://www.facebook.com/design.inovacao/) para saber quando vai rolar o próximo!
 
 Os assuntos tratados foram:
-
 * Bloqueios criativos
 * Divergência criativa
 * Convergência criativa
