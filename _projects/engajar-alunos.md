@@ -3,7 +3,7 @@ title: Podemos engajar alunos fora da sala
 permalink: engajar-alunos
 tags:
 - educação
-image: "/uploads/engajar-alunos.jpg"
+image: "/uploads/Thumb.jpg"
 period: Outubro - Dezembro, 2017
 client: Claudia Araujo
 city: São Paulo
