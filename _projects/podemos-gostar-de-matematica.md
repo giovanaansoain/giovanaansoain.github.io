@@ -3,7 +3,7 @@ title: Podemos gostar de matemática
 permalink: podemos-gostar-de-matematica
 tags:
 - educação
-image: "/uploads/tina-floersch.jpg"
+image: "/uploads/20180509_133759.jpg"
 period: Maio, 2018
 client: Maestro, Perestroika
 city: São Paulo
