@@ -1,8 +1,8 @@
 ---
 title: Home
 banner_title: Design de inovação
-banner_subtitle: Com um conjunto diversificado de recursos e ferramentas ajudo equipes
-  e organizações na transição de onde estão agora para onde querem estar
+banner_subtitle: Promovo workshops e potencializo projetos para que você conquiste
+  seus ojetivos com criatividade, processo e resultado
 image: "/uploads/home-banner.jpg"
 services_title: 
 project_title: Minhas melhores colaborações
