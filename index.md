@@ -1,9 +1,9 @@
 ---
 title: Home
 banner_title: Design de inovação
-banner_subtitle: Promovo workshops de desenvolvimento de habilidades e facilito criatividade
-  e inovação de projetos para que você conquiste seus objetivos com criatividade e
-  processo de forma organizada, leve e realizadora.
+banner_subtitle: Realizo workshops de desenvolvimento de habilidades criativas e facilito
+  criatividade e inovação de projetos para que você conquiste seus objetivos com criatividade
+  e processo de forma organizada, leve e realizadora.
 image: "/uploads/home-banner.jpg"
 services_title: 
 project_title: Minhas melhores colaborações
