@@ -2,7 +2,8 @@
 title: Lucas Caldeira
 date: 2018-06-29 18:41:00 Z
 client: Lucas Caldeira
-role: sobre o workshop Desbloqueio Criativo
+role: Idealizador de projetos sociais e presidente de Instituto Ninho Social sobre
+  o workshop Desbloqueio Criativo
 layout: default
 ---
 
