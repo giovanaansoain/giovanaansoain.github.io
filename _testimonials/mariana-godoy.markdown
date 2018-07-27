@@ -1,8 +1,8 @@
 ---
 title: Mariana Godoy
 date: 2018-06-28 17:47:00 Z
-client: Mariana Godoy, Trade Marketing na Telecine Globosat Group
-role: sobre o workshop Desbloqueio Criativo
+client: Mariana Godoy
+role: Trade Marketing na Telecine Globosat Group sobre o workshop Desbloqueio Criativo
 layout: default
 ---
 
