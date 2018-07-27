@@ -1,7 +1,7 @@
 ---
 title: Claudia Araujo
-client: Claudia Araujo, Diretora Seven Idiomas Aclimação
-role: sobre Design de inovação
+client: Claudia Araujo
+role: Diretora Seven Idiomas Aclimação sobre Design de inovação
 layout: default
 ---
 
