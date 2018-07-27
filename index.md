@@ -2,7 +2,7 @@
 title: Home
 banner_title: O que você quer do futuro?
 banner_subtitle: Desenvolvo habilidades criativas para você conquistar seus objetivos
-  e criar um futuro mais humano de forma organizada e dinâmica
+  e criar um futuro mais humano de forma dinâmica e organizada
 image: "/uploads/cover-1.jpg"
 services_title: 
 project_title: Minhas melhores colaborações
