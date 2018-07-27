@@ -1,8 +1,8 @@
 ---
 title: Home
-banner_title: Design de inovação
-banner_subtitle: Desenvolvo de habilidades criativas para que você conquiste seus
-  objetivos de forma organizada, dinâmica e realizadora.
+banner_title: O que você quer do futuro?
+banner_subtitle: Desenvolvo habilidades criativas para você conquistar seus objetivos
+  e criar um futuro mais humano de forma organizada e dinâmica
 image: "/uploads/home-banner.jpg"
 services_title: 
 project_title: Minhas melhores colaborações
