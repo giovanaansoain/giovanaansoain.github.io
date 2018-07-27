@@ -15,11 +15,11 @@ blog_title: Novidades do blog
 blog_subtitle: No blog eu escrevo sobre design, inovação, empreendedorismo e muito
   mais. Veja as novidades!
 services_box1_title: Design
-services_box1_text: Processo colaborativo com sua equipe para facilitar a criatividade
-  e inovação voltada ao desenvolvimento de projeto
-services_box2_title: Workshops
-services_box2_text: de desenvolvimento de habilidades e solução de desafios para sua
-  equipe de forma totalmente customizável
+services_box1_text: Facilito a criatividade e inovação para o desenvolvimento de projeto
+  e conquista de objetivos
+services_box2_title: Experiência
+services_box2_text: instigante que vai fazer você descobrir novos caminhos, desenvolver
+  habilidades criativas e resolver desafios
 services_box3_title: Novos mercados
 services_box3_text: Se você viu novas oportunidades para desenvolver criatividade
   e inovação, eu posso te ajudar. Vamos construir juntos!
