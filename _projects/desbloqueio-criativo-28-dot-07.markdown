@@ -20,8 +20,6 @@ A segunda edição do workshop teve os ingressos esgotados em pouco tempo. Quem 
 
 ![turma-cheia](/uploads/37994176_1095623273928293_3472269475842097152_o.jpg)
 
-![desbloqueando-a-criatividade](/uploads/38125813_1095623317261622_3549629460410007552_o.jpg)
-
 ![foto-com-um-dos-grupos](/uploads/38000004_1095623370594950_4313586563343712256_o.jpg)
 
 Falamos sobre:
