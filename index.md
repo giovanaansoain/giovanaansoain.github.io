@@ -3,7 +3,7 @@ title: Home
 banner_title: Você é criativo?
 banner_subtitle: Você e sua equipe serão desafiados a refletir suas ideias e mudar
   sua forma de pensar em uma jornada única e personalizada para conquistar o seu objetivo
-image: "/uploads/mario-calvo-345-unsplash.jpg"
+image: "/uploads/martin-grincevschi-466861-unsplash.jpg"
 services_title: 
 project_title: Minhas melhores colaborações
 project_subtitle: Veja os projetos mais legais que colaborei.
