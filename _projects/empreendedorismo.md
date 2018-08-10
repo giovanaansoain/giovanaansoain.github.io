@@ -1,9 +1,9 @@
 ---
-title: Sebrae - Empreendedorismo
+title: Mentoria Sebrae - Jogos
 permalink: sebrae-empreendedorismo
 tags:
 - mentoria
-image: "/uploads/sebrae-empreendedorismo.jpg"
+image: "/uploads/hardik-sharma-560353-unsplash.jpg"
 period: Novembro, 2017
 client: Sebrae
 city: São Paulo
