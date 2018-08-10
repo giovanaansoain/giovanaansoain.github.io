@@ -24,7 +24,7 @@ Se você se interessou pelo workshop, fica ligado(a) nas [minhas redes sociais](
 
 Os assuntos tratados foram:
 
--	Bloqueios criativos 2
+-	Bloqueios criativos
 
 -	Divergência criativa
 
