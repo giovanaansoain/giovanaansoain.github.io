@@ -24,6 +24,7 @@ Facilitar a transformação e criatividade é proporcionar a geração de ideias
 
 Facilito transformação com um olhar criativo e dinâmico. Me baseio em metodologias e ferramentas do design para trazer novas perspectivas e questões para os grupos que facilito. Colaborei com diversas empresas, como o Banco Interamericano de Desenvolvimento (BID) e Perestroika.
 
+
 ## Minha missão
 
 Criar um futuro mais humano - Contribuir de forma empática e criativa para aumentar a humanização das pessoas e empresas.
