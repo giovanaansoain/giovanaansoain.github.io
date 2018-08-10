@@ -24,7 +24,7 @@ A segunda edição do workshop teve os ingressos esgotados em pouco tempo. Quem 
 
 Falamos sobre:
 
-* Empatia 2
+* Empatia
 
 * Resolução de problemas
 
