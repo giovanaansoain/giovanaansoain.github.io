@@ -1,9 +1,9 @@
 ---
 title: Mentoria Sebrae - Jogos
-permalink: sebrae-empreendedorismo
+permalink: sebrae-jogos
 tags:
 - mentoria
-image: "/uploads/hardik-sharma-560353-unsplash.jpg"
+image: "/uploads/jeshoots-com-655112-unsplash.jpg"
 period: Novembro, 2017
 client: Sebrae
 city: São Paulo
