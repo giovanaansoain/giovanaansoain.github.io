@@ -18,12 +18,11 @@ layout: sobre
 
 ## Sobre mim
 
-Criativa, comunicativa e empreendedora, estou sempre buscando o novo. Formada em Design Gráfico pela Belas Artes de São Paulo, facilitei inovação em diversas empresas.
+Criativa, comunicativa e empreendedora, estou sempre buscando o novo. Sou apaixonada por pessoas e pela nossa incrível capacidade de gerar inovação. Desenvolvendo relações e conexões humanas podemos criar projetos capazes de transformar a realidade.
 
-Sou apaixonada por pessoas e pela nossa incrível capacidade de gerar inovação. Através do desenvolvimento das relações e conexões interpessoais podemos desenvolver projetos capazes de mudar nossa realidade atual.
+Facilitar a transformação e criatividade é proporcionar a geração de ideias e superar o senso comum. É fazer o convite certo, no momento adequado. É questionar a certeza e buscar o novo.
 
-Facilitar inovação é proporcionar a geração de ideias, a convergência de diferentes pontos de vista e superar o senso comum. É fazer o convite certo, no momento adequado. É questionar a certeza e buscar o novo. É alinhar objetivos e expectativas e encontrar nas lacunas a inovação. 
-Em um trabalho colaborativo com você e sua equipe eu trago provocações, metodologias e ferramentas atuais para que vocês criem as inovações que vão os levar em direção aos seus objetivos.
+Facilito transformação com um olhar criativo e dinâmico. Me baseio em metodologias e ferramentas do design para trazer novas perspectivas e questões para os grupos que facilito. Colaborei com diversas empresas, como o Banco Interamericano de Desenvolvimento (BID) e Perestroika.
 
 ## Minha missão
 
