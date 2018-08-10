@@ -23,7 +23,7 @@ A segunda edição do workshop teve os ingressos esgotados em pouco tempo. Quem 
 ![foto-com-um-dos-grupos](/uploads/38000004_1095623370594950_4313586563343712256_o.jpg)
 
 Falamos sobre:
-- Empatia
-- Resolução de problemas
-- Design Thinking (base e origem)
-- Ferramentas de criação
+-	Empatia
+-	Resolução de problemas
+-	Design Thinking (base e origem)
+-	Ferramentas de criação
