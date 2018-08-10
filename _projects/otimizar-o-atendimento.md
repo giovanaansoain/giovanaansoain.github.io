@@ -1,23 +1,23 @@
 ---
-title: Podemos otimizar o atendimento ao cliente
+title: Chatbot financeiro
 permalink: otimizar-o-atendimento
 tags:
 - financeiro
-image: "/uploads/otimizar-o-atendimento.jpg"
+image: "/uploads/rohit-tandon-105772-unsplash.jpg"
 period: Dezembro - Abril, 2018
-client: BID (Banco Interamericano de Desenvolvimento)
+client: BID
 city: São Paulo
 type: latest
 layout: project
 ---
 
-Com a necessidade de otimizar a comunicação de um banco internacional com seus colaboradores, facilitei a criação de uma interface interativa de conversa que promove uma comunicação mais eficiente entre banco e colaboradores.
+Com a necessidade de otimizar a comunicação de um banco internacional com seus colaboradores, facilitei a criação de uma interface interativa de conversa que promove uma comunicação mais eficiente entre banco e colaboradores, chatbot.
 
-Durante as assessorias facilitadas foi preciso entender quem são os stakeholders do negócio e quais as informações relevantes para eles. Além disso, criamos uma lógica de comunicação com textos personalizados para facilitar o entendimento do usuário no chat.
+Durante os encontros facilitados entendemos quem são os stakeholders e quais informações são relevantes para eles. Criamos uma lógica de comunicação com textos personalizados para facilitar o entendimento do usuário no chat.
 
 Os assuntos tratados foram:
 
--	Entendimento do negócio
+-	Alinhamento do negócio
 
 -	Conhecimento dos stakeholders
 
@@ -28,4 +28,3 @@ Os assuntos tratados foram:
 -	Criação de texto
 
 -	Alinhamento final da interface
-
