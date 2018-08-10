@@ -1,7 +1,7 @@
 ---
 title: Sobre
 permalink: about
-image: "/uploads/perfil-boop.jpg"
+image: "/uploads/perfil-boop-fake.jpg"
 video-image: 
 video-link: 
 services_title: Meus diferenciais
