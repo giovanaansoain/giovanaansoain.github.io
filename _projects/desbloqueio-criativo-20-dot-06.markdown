@@ -23,8 +23,13 @@ O workshop inaugural do dia 20/06/2018 foi especial! Como o nome já diz, desblo
 Se você se interessou pelo workshop, fica ligado(a) nas [minhas redes sociais](https://www.facebook.com/design.inovacao/) para saber quando vai rolar o próximo!
 
 Os assuntos tratados foram:
--	Bloqueios criativos 0
+
+-	Bloqueios criativos 2
+
 -	Divergência criativa
+
 -	Convergência criativa
+
 -	Desenvolvimento de projetos
+
 -	Design-driven
