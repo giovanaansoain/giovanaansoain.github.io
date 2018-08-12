@@ -8,10 +8,10 @@ $(document).ready(function(){
 	}
 
 	$("#nav-menu > a").click(function(e) {
-			if (window.location.pathname === '/' || window.location.pathname === '/http://127.0.0.1:4000/') {
+		if (window.location.pathname === '/' || window.location.pathname === '/http://127.0.0.1:4000/') {
 		    e.preventDefault();
 		    goToByScroll(this.id);
-			}
+		}
 	});
 
 	// slider
@@ -159,26 +159,22 @@ $(document).ready(function(){
 		filter(e.target.innerText.toLowerCase());
 	});
 
-
-
-
 	var filtro = 6;
 	var add = 6;
 
 	function showProjects(filt) {
 		const tagNode = $('.item-filter-projects.active')[0];
-		console.log(tagNode);
+		// console.log(tagNode);
 		const tag = tagNode.id.replace('-item', '');
 		console.log(tag);
-		// console.log(tags.hasClass('active'));
+		// console.log(tag.hasClass('active'));
 		// loop through all lists and hide them
 		var lists = $('.projetos-loop');
 		for (var i = 0; i < filt + 1; i++) {
-			console.log('.projeto-' + tag + i);
+			// console.log('.projeto-' + tag + i);
 			$('.projeto-' + tag + '-' + i).removeClass('hidden');
 		}
 	}
-
 
 	$('.item-vermais-projects').click(function(e) {
 		showProjects(filtro + add);

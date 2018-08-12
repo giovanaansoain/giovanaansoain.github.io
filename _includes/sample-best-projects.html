@@ -39,7 +39,7 @@
 			{% assign isbig2 = forloop.index | modulo:11 %}
 			<a href="{{ project.permalink }}" class="
 				projetos-loop 
-				projeto-all-{{forloop.index}} 
+				projeto-todos-{{forloop.index}} 
 				{% if forloop.index > 6 %}hidden{% endif %} 
 				{% if forloop.index == 1 or isbig == 0 or isbig2 == 0 %}big{% endif %}
 			">
