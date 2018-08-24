@@ -14,14 +14,14 @@ testimonials_subtitle: Saiba o que eles acharam da minha colaboração
 blog_title: Novidades do blog
 blog_subtitle: No blog eu escrevo sobre design, inovação, empreendedorismo e muito
   mais. Veja as novidades!
-services_box1_title: Design
-services_box1_text: Facilito a transformação desenvolvendo criatividade e inovação
-  em equipes
-services_box2_title: Jornadas
-services_box2_text: Experiências instigantes que vão fazer você descobrir novos caminhos,
-  desenvolver habilidades criativas e resolver desafios
-services_box3_title: Novos mercados
-services_box3_text: Se você viu novas oportunidades para desenvolver criatividade
+services_box1_title: Palestras
+services_box1_text: Conduzo conversas que buscam transformar nossa forma de pensar
+  através da visão autônoma e criativa
+services_box2_title: Treinamentos e workshops
+services_box2_text: Experiências únicas e instigantes que vão te fazer descobrir novos
+  caminhos e resolver desafios criativamente
+services_box3_title: Projetos
+services_box3_text: Se você quer aproveitar novas oportunidades e desenvolver criatividade
   e inovação, eu posso te ajudar. Vamos construir juntos!
 layout: home
 ---
