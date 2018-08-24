@@ -1,5 +1,5 @@
 ---
-title: Podemos gostar de matemática
+title: 'Desafio: Repensando a educação'
 permalink: podemos-gostar-de-matematica
 tags:
 - educacional
