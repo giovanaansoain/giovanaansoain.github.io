@@ -1,6 +1,6 @@
 ---
 title: bid
-position: 3
+position: 1
 layout: default
 image: "/uploads/bid-logo.png"
 ---
