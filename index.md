@@ -21,7 +21,8 @@ services_box2_title: Treinamentos e workshops
 services_box2_text: Experiências únicas e instigantes que vão te fazer descobrir novos
   caminhos e resolver desafios criativamente
 services_box3_title: Projetos
-services_box3_text: o
+services_box3_text: 'Quer aproveitar novas oportunidades, criar e inovar? Eu posso
+  te ajudar! Vamos construir o seu futuro juntos! '
 layout: home
 ---
 
