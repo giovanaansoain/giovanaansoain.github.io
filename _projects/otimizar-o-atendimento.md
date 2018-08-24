@@ -2,7 +2,7 @@
 title: Chatbot financeiro
 permalink: otimizar-o-atendimento
 tags:
-- financeiro
+- projetos
 image: "/uploads/rohit-tandon-105772-unsplash.jpg"
 period: Dezembro - Abril, 2018
 client: BID
