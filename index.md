@@ -15,8 +15,8 @@ blog_title: Novidades do blog
 blog_subtitle: No blog eu escrevo sobre design, inovação, empreendedorismo e muito
   mais. Veja as novidades!
 services_box1_title: Palestras
-services_box1_text: Conduzo conversas que buscam transformar nossa forma de pensar
-  através da visão autônoma e criativa
+services_box1_text: Conduzo conversas que buscam transformar sua forma de pensar através
+  da visão autônoma e criativa
 services_box2_title: Treinamentos e workshops
 services_box2_text: Experiências únicas e instigantes que vão te fazer descobrir novos
   caminhos e resolver desafios criativamente
