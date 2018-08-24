@@ -1,8 +1,8 @@
 ---
 title: Home
 banner_title: Você é criativo?
-banner_subtitle: Você e sua equipe serão desafiados a refletir suas ideias e transformar
-  a forma de pensar em uma jornada única e personalizada
+banner_subtitle: Facilito transformação criativa e inovadora criando experiências
+  únicas que potencializam empresas e equipes
 image: "/uploads/rodrigo-kugnharski-449600-unsplash.jpg"
 services_title: 
 project_title: Minhas melhores colaborações
