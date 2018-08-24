@@ -1,6 +1,7 @@
 ---
 title: WDC 3
 date: 2018-08-24 19:04:00 Z
+client: Anônimo
 role: Sobre o workshop Desbloqueio Criativo
 ---
 
