@@ -18,6 +18,19 @@ A convite da FutureBand em parceria com a Springpoint, hub de transformação, c
 
 Falamos sobre:
 - Empatia
+
 - Experiência do usuário
+
 - Escuta ativa
+
 - Ferramentas de projeto
+
+* Busca pelo propósito empreendedor
+
+* Pesquisa de referências
+
+* Entrevista com stakeholders
+
+* Desenho da jornada do usuário
+
+* Criação de metas SMART
