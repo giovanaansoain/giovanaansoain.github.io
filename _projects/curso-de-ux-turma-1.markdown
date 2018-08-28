@@ -1,5 +1,5 @@
 ---
-title: Curso de UX | Turma 1
+title: Curso de UX
 date: 2018-08-24 16:58:00 Z
 permalink: curso-ux-santander-turma-1
 tags:
