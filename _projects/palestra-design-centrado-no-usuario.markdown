@@ -24,13 +24,3 @@ Falamos sobre:
 - Escuta ativa
 
 - Ferramentas de projeto
-
-* Busca pelo propósito empreendedor
-
-* Pesquisa de referências
-
-* Entrevista com stakeholders
-
-* Desenho da jornada do usuário
-
-* Criação de metas SMART
