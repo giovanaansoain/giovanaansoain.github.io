@@ -1,9 +1,9 @@
 ---
-title: Palestra Design centrado no usuário
+title: Design centrado no usuário | Palestra
 date: 2018-08-27 23:15:00 Z
 permalink: palestra-futurebrand-design-centrado-no-usuario
 tags:
-- palestra
+- palestras
 image: "/uploads/IMG_0264.jpg"
 period: Agosto, 2018
 client: FutureBrand, Springpoint
