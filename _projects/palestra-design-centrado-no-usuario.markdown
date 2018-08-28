@@ -6,7 +6,7 @@ tags:
 - palestras
 image: "/uploads/IMG_0264.jpg"
 period: Agosto, 2018
-client: FutureBrand, Springpoint
+client: FutureBrand + Springpoint
 city: São Paulo
 type: latest
 layout: project
