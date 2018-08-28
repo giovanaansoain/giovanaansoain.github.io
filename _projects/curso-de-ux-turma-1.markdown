@@ -6,7 +6,7 @@ tags:
 - educacional
 image: "/uploads/20180822_150828.jpg"
 period: Agosto, 2018
-client: Springpoint + Academia Santander
+client: Academia Santander + Springpoint
 city: São Paulo
 type: latest
 layout: project
