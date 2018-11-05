@@ -16,6 +16,6 @@ Em parceria com a rede Springpoint sou uma das facilitadoras do curso UX Interme
 
 ![grupo-discutindo-o-desafio](/uploads/20180821_124309.jpg)
 
-As turmas são multidisciplinares e trazem a riqueza da diversidade no processo. Experiência sensacional, obrigada a todos! 
+Já são 4 turmas desse tema na Academia. Obrigada a todos!
 
 ![grupos-prototipando-soluções](/uploads/20180822_121349.jpg)
