@@ -5,7 +5,7 @@ permalink: curso-dt-santander
 published: false
 tags:
 - educacional
-image: "/uploads/2018-11-05%2006.20.37%201.jpg"
+image: "/uploads/dt-editada.jpg"
 period: Setembro, 2018
 client: Academia Santander + Springpoint
 city: São Paulo
