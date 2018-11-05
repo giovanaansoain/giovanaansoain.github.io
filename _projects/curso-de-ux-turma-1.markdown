@@ -1,5 +1,5 @@
 ---
-title: Curso de UX
+title: Workshop de UX
 date: 2018-08-24 16:58:00 Z
 permalink: curso-ux-santander-turma-1
 tags:
@@ -12,7 +12,7 @@ type: latest
 layout: project
 ---
 
-Em parceria com a rede Springpoint sou uma das facilitadoras do curso UX Intermediário na Academia Santander. Uma experiência enriquecedora que propõe contextualizar e colocar em prática os conceitos de experiência do usuário no contexto digital e não digital.
+Em parceria com a rede Springpoint sou uma das facilitadoras do curso UX Intermediário na Academia Santander. Uma experiência de três dias muito enriquecedora que propõe contextualizar e colocar em prática os conceitos de experiência do usuário no contexto digital e não digital.
 
 ![grupo-discutindo-o-desafio](/uploads/20180821_124309.jpg)
 
