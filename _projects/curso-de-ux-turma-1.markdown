@@ -1,7 +1,7 @@
 ---
 title: Workshop de UX
 date: 2018-08-24 16:58:00 Z
-permalink: curso-ux-santander-turma-1
+permalink: curso-ux-santander
 tags:
 - educacional
 image: "/uploads/20180822_150828.jpg"
