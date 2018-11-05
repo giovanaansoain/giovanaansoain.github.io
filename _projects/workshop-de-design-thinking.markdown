@@ -2,6 +2,7 @@
 title: Workshop de Design Thinking
 date: 2018-11-05 20:06:00 Z
 permalink: curso-dt-santander
+published: false
 tags:
 - educacional
 image: "/uploads/2018-11-05%2006.20.37%201.jpg"
